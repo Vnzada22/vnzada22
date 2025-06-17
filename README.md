@@ -1,4 +1,4 @@
-## Oiii eu sou o Vando Silvano, estudante de conteúdo de programação e tecnologia!
+## Oiii eu sou o Vando Silvano, estudante de programação e tecnologia!
 
 
 - 🔭 estou no segundo ano do curso tecnico te TI
