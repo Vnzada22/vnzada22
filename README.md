@@ -1,7 +1,7 @@
 ## olá eu sou o Vando Silvano, estudante de programação e tecnologia!
 
 
-- 🔭 estou no segundo ano do curso tecnico te TI
+- 🔭 estou no terceiro ano do curso tecnico te TI
 - 🌱 estudando javascript e python
 - 📫 contate-me pelo email: vandinhoesv56@gmail.com
 - 😄 Pronomes: ele/dele
